@@ -1,4 +1,4 @@
-                                                                                                                      #Honeywell Hackathon
+#Honeywell Hackathon
 
 Steps that i have taken to complete this hackathon :-
 
